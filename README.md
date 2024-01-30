@@ -16,8 +16,8 @@
 <p align="left">
 <a href="https://twitter.com/vahagnghazarya4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vahagnghazarya4" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vahagn-ghazaryan-332441174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vahagn-ghazaryan-332441174" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/vahagnghazaryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/vahagnghazaryan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/user4090dd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user4090dd/" height="30" width="40" /></a>
+<a href="https://kaggle.com/vahagnghazaryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/vahagnghazaryan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/user4090dd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user4090dd/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
